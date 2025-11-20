@@ -2,9 +2,10 @@
 
                                             Domain :- HR 
 
-                                            Project Overview
+                                           
 <img width="1388" height="784" alt="DASHBOARD" src="https://github.com/user-attachments/assets/dd42b1bb-7f4f-4562-8554-ead5229cb2e0" />
 
+                                         Project Overview
 The goal of this project is to identify employee presence patterns within AtliQ by analyzing:
 
 1.  Attendance percentages.
