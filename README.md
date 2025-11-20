@@ -4,6 +4,7 @@
 
 
                                             Project Overview
+<img width="1388" height="784" alt="DASHBOARD" src="https://github.com/user-attachments/assets/dd42b1bb-7f4f-4562-8554-ead5229cb2e0" />
 
 The goal of this project is to identify **employee presence patterns** within AtliQ by analyzing:
 
@@ -15,8 +16,6 @@ The goal of this project is to identify **employee presence patterns** within At
 * Employee-level compliance
 
 The dashboard enables HR managers to quickly diagnose issues, detect trends, and make informed decisions to improve overall workforce productivity and engagement.
-
-<img width="1388" height="784" alt="DASHBOARD" src="https://github.com/user-attachments/assets/dea70653-c5d3-419a-bf42-882c30bb77e5" />
 
 
                                                       Key Features
