@@ -74,8 +74,10 @@ A detailed insights-and-recommendation breakdown is included in the project docu
 * Applying HR domain knowledge to data.
 * Structuring data stories with recommendations.
 
-                                                           Contact
+                                                         LINKS
 
-Created By:- WANI UMER
-LinkedIn: https://www.linkedin.com/posts/waniumer-analytics_powerbi-dataanalytics-businessintelligence-activity-7432322213862735872-OPeC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
+ WANI UMER
 
+1. LinkedIn: https://www.linkedin.com/posts/waniumer-analytics_powerbi-dataanalytics-businessintelligence-activity-7432322213862735872-OPeC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFNS0HwB-OAdiVBbiM-Z0IdF32qvthi_XwE 
+
+2. PORTFOLIO:- https://codebasics.io/portfolio/WANI-UMER
