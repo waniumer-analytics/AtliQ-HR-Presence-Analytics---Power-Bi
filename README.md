@@ -1,11 +1,9 @@
-                                    AtliQ-HR-Presence-Analytics
+##                                    AtliQ-HR-Presence-Analytics
 
-                                            Domain :- HR 
 
-                                           
 <img width="1388" height="784" alt="DASHBOARD" src="https://github.com/user-attachments/assets/dd42b1bb-7f4f-4562-8554-ead5229cb2e0" />
 
-                                         Project Overview
+##                                         Project Overview
 The goal of this project is to identify employee presence patterns within AtliQ by analyzing:
 
 1.  Attendance percentages.
@@ -18,7 +16,7 @@ The goal of this project is to identify employee presence patterns within AtliQ 
 The dashboard enables HR managers to quickly diagnose issues, detect trends, and make informed decisions to improve overall workforce productivity and engagement.
 
 
-                                                      Key Features
+  ##                                                    Key Features
 
 1. Interactive Month-wise Analysis (April–June 2022).
 
@@ -47,7 +45,7 @@ The dashboard enables HR managers to quickly diagnose issues, detect trends, and
 
 
 
-                                                                 Insights (Summary)
+ ##                                                                 Insights (Summary)
 
 1. May has the lowest attendance (89.7%) with the highest WFH and sick leaves.
 2. Attendance dips follow a monthly pattern around the 8th–12th.
@@ -57,7 +55,7 @@ The dashboard enables HR managers to quickly diagnose issues, detect trends, and
 
 A detailed insights-and-recommendation breakdown is included in the project documentation.
 
-                                                         Use Cases
+ ##                                                         Use Cases
 
 * HR analytics & reporting.
 * Workforce planning.
@@ -66,7 +64,7 @@ A detailed insights-and-recommendation breakdown is included in the project docu
 * Academic or portfolio project.
 * Dashboard design inspiration.
 
-                                                        Key Learnings
+  ##                                                      Key Learnings
 
 * Designing HR dashboards for leadership insights.
 * DAX calculations for attendance metrics.
@@ -74,7 +72,7 @@ A detailed insights-and-recommendation breakdown is included in the project docu
 * Applying HR domain knowledge to data.
 * Structuring data stories with recommendations.
 
-                                                         LINKS
+ ##                                                         LINKS
 
  WANI UMER
 
